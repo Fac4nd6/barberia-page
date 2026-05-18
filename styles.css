@@ -35,7 +35,7 @@ color:#c59d5f;
 text-align:center;
 padding:150px 20px;
 
-background-image:url("https://images.unsplash.com/photo-1517832606299-7ae9b720a186");
+background-image:url("img/img-hero.jpeg");
 background-size:cover;
 background-position:center;
 
@@ -187,4 +187,8 @@ transition:0.3s;
 
 .whatsapp:hover{
 transform:scale(1.1);
+}
+
+html{
+    scroll-behavior: smooth;
 }
